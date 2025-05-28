@@ -1,4 +1,4 @@
-# Wine-NTsync with Wayland Fixes
+# Wine-NTsync with Wayland Fixes Pkgbuild
 
 ### Version
 Wine Version 10.8
