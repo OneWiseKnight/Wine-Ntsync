@@ -1,5 +1,8 @@
 # Wine-NTsync with Wayland Fixes
 
+### Version
+Wine Version 10.8
+
 ### What is this?
 This is base Wine with patches taken from [loathingkernel](https://github.com/loathingkernel), and [TKG's Wine Repo](https://github.com/Frogging-Family/wine-tkg-git).
 
